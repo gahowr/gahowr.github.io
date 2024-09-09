@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://gahowr.github.io/wTJ/sitemap.wTJ.gz
